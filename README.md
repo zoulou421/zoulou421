@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Bonevy BEBY
+# 👋 Hello, Bonevy BEBY
 
 <div align="center">
   
@@ -6,21 +6,20 @@
 
 </div>
 
-## 🚀 À propos de moi
+## 🚀 About Me
 
-Architecte logiciel senior passionné par la création de solutions d'entreprise robustes et scalables. Expert en développement FullStack avec une spécialisation en systèmes ERP et automatisation des workflows métier.
+Senior Software Architect passionate about building robust and scalable enterprise solutions. FullStack development expert with specialization in ERP systems and business workflow automation.
 
-- 🏢 **Formation KILO** - [formationkilo.com](https://www.formationkilo.com/)
-- 📍 **Localisation** : Dakar, Sénégal
-- 💼 **Spécialités** : Architecture Logicielle, Solutions ERP, DevOps
-- 🎓 **Formateur** : Supply Chain & Développement
-- 🌐 **Site web** : [formationkilo.com](https://www.formationkilo.com/)
+- 🏢 **LinkedIn** - [[linkedin.com](https://www.linkedin.com/in/bonevybeby/)]
+- 📍 **Location** : Dakar, Senegal
+- 💼 **Specialties** : Software Architecture, ERP Solutions, DevOps
+- 🎓 **Trainer** : Supply Chain & Development 
 
 ---
 
-## 💻 Stack Technique
+## 💻 Tech Stack
 
-### Langages de Programmation
+### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -49,7 +48,7 @@ Architecte logiciel senior passionné par la création de solutions d'entreprise
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-### Bases de Données
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -57,16 +56,16 @@ Architecte logiciel senior passionné par la création de solutions d'entreprise
 
 ---
 
-## 🎯 Domaines d'Expertise
+## 🎯 Areas of Expertise
 
 ```mermaid
 mindmap
-  root((Architecture
-    Logicielle))
-    Solutions ERP
+  root((Software
+    Architecture))
+    ERP Solutions
       Odoo
       ERPNext
-      Customisation
+      Customization
     FullStack Development
       Java/Spring
       Python/Django
@@ -77,52 +76,52 @@ mindmap
       Automation
     Business Workflow
       Supply Chain
-      Processus Métier
-      Optimisation
+      Business Processes
+      Optimization
 ```
 
 ---
 
-## 🏆 Projets Phares
+## 🏆 Featured Projects
 
-### 🔐 [Authentification OAuth2 & JWT](https://github.com/zoulou421/social-login-oauth2-springsecurity6-springboot3)
+### 🔐 [OAuth2 & JWT Authentication](https://github.com/zoulou421/social-login-oauth2-springsecurity6-springboot3)
 **Spring Boot 3 | Spring Security 6 | OAuth2**
-- Implémentation complète de l'authentification sociale
-- Support Google, Facebook, GitHub
+- Complete social authentication implementation
+- Google, Facebook, GitHub support
 - JWT Token Management
-- Architecture sécurisée moderne
+- Modern secure architecture
 
 ### 🏦 [SOAP Banking Web Service](https://github.com/zoulou421/soap-banque)
 **Java | Spring Boot | SOAP**
-- Service bancaire basé sur SOAP
-- Architecture orientée services (SOA)
-- Gestion des comptes et transactions
-- Documentation WSDL complète
+- SOAP-based banking service
+- Service-Oriented Architecture (SOA)
+- Account and transaction management
+- Complete WSDL documentation
 
 ### 📱 [Todo App Kotlin](https://github.com/zoulou421/TodoAppKotlin)
 **Kotlin | Jetpack Compose | Android**
-- Application mobile moderne avec Jetpack Compose
-- Architecture MVVM
-- Opérations CRUD complètes
-- UI/UX native Android
+- Modern mobile app with Jetpack Compose
+- MVVM Architecture
+- Complete CRUD operations
+- Native Android UI/UX
 
 ### 📝 [Django Blog Platform](https://github.com/zoulou421/DocBlog_Django_Project)
 **Python | Django | PostgreSQL**
-- Plateforme de blog documentée
-- Authentification utilisateur
-- Système de commentaires
-- Panel d'administration
+- Documented blog platform
+- User authentication
+- Comment system
+- Admin panel
 
 ### 🔑 [Node.js JWT Authentication](https://github.com/zoulou421/nodejs-authentication-with-JWT)
 **Node.js | Express | JWT**
-- Système d'authentification sécurisé
+- Secure authentication system
 - Token-based authentication
 - Refresh token implementation
-- API RESTful
+- RESTful API
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
   
@@ -136,36 +135,36 @@ mindmap
 
 ---
 
-## 🎓 Services & Formation
+## 🎓 Services & Training
 
-### 💼 Consulting IT
-- Architecture logicielle & design patterns
-- Migration vers solutions ERP
-- Audit de code & optimisation
-- Stratégie DevOps
+### 💼 IT Consulting
+- Software architecture & design patterns
+- Migration to ERP solutions
+- Code audit & optimization
+- DevOps strategy
 
-### 📚 Formation
-- Développement FullStack (Java, Python, JavaScript)
-- Solutions ERP (Odoo, ERPNext)
+### 📚 Training
+- FullStack Development (Java, Python, JavaScript)
+- ERP Solutions (Odoo, ERPNext)
 - Supply Chain Management
-- Best practices DevOps
+- DevOps best practices
 
-### 🏢 Solutions ERP
-- Implémentation Odoo/ERPNext
-- Customisation de modules
-- Intégration système
-- Formation utilisateur
+### 🏢 ERP Solutions
+- Odoo/ERPNext implementation
+- Module customization
+- System integration
+- User training
 
 ---
 
-## 🌐 Me Contacter
+## 🌐 Connect With Me
 
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-formationkilo.com-blue?style=for-the-badge&logo=google-chrome)](https://www.formationkilo.com/)
 [![Twitter](https://img.shields.io/badge/Twitter-@bonevybeby-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bonevybeby)
 [![Instagram](https://img.shields.io/badge/Instagram-bonevy__beby-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bonevy_beby/?hl=fr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/votre-profil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@formationkilo.com)
 
 </div>
@@ -178,9 +177,9 @@ mindmap
 
 ---
 
-## 💡 Citation
+## 💡 Quote
 
-> "La simplicité est la sophistication suprême." - Leonardo da Vinci
+> "Simplicity is the ultimate sophistication." - Leonardo da Vinci
 
 ---
 
