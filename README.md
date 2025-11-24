@@ -13,7 +13,8 @@ Senior Software Architect passionate about building robust and scalable enterpri
 - 🏢 **LinkedIn** - [[linkedin.com](https://www.linkedin.com/in/bonevybeby/)]
 - 📍 **Location** : Dakar, Senegal
 - 💼 **Specialties** : Software Architecture, ERP Solutions, DevOps
-- 🎓 **Trainer** : Supply Chain & Development 
+- 🎓 **Trainer** : Supply Chain & Development
+- Email: bonevybeby@gmail.com
 
 ---
 
@@ -179,7 +180,7 @@ mindmap
 
 ## 💡 Quote
 
-> "Simplicity is the ultimate sophistication." - Leonardo da Vinci
+> "Everything is possible..."-J.C
 
 ---
 
